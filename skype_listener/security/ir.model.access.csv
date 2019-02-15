@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_skype_listener_skype_listener,skype_listener.skype_listener,model_skype_listener_skype_listener,,1,0,0,0
